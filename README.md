@@ -1,10 +1,10 @@
 # Hello-World
 just another repo
-Cambios archivo para verificar confirmacion en version inicial
+    Cambios archivo para verificar confirmacion en version inicial
 
-Nueva línea modificada
+       Nuevas líneas modificada
 
-Nueva linea de cambio modificada desde Sublime text
+    Nuevas lineas de cambio modificada desde Sublime text
 
 # Control de outline
 
@@ -13,4 +13,4 @@ Nueva linea de cambio modificada desde Sublime text
 # Gen
 Gen dos
 # Recall
-Recall 1 linea de cambio
+Recall 1 linea de cambio desde VSCode s
