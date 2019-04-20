@@ -4,10 +4,10 @@ just another repo
 
        Nuevas líneas modificada
 
-    Nuevas lineas de cambio modificada desde Sublime text
+    Nuevas lineas de cambio modificadas desde Sublime text y luego desde VScode
 
 # Control de outline
-
+Control de veriones interno de VSCode
 
 
 # Gen
